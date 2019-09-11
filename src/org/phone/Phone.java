@@ -9,7 +9,7 @@ public class Phone {
 	}
 	public static void main(String[] args) {
 		Phone p=new Phone();
-		p.phoneInfo(50,"tamil");
+		p.phoneInfo(50,"Tamil");
 		p.phoneInfo("SELVAN", 100);
 	}
 }
